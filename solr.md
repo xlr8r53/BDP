@@ -1,4 +1,36 @@
 
+
+## **Solr:**
+
+**1. Creation/generation of instance & Collection:**
+
+![image](https://user-images.githubusercontent.com/78001524/112710684-1b0a6400-8e91-11eb-9aa8-3594fd26250a.png)
+
+
+**2. Edit the schema.xml created with the instance generation inside the configuration folder to change
+the attributes based on the dataset given:**
+
+![image](https://user-images.githubusercontent.com/78001524/112710693-21004500-8e91-11eb-9957-7a65eed380ca.png)
+
+
+**3. Open the solr browser in the web browser and select the create collection on the left side
+dropdown.**
+
+![image](https://user-images.githubusercontent.com/78001524/112710699-252c6280-8e91-11eb-8560-5eba43aa0048.png)
+
+
+**4. Set "Tweet Id" as the primary key.**
+
+![image](https://user-images.githubusercontent.com/78001524/112710700-29f11680-8e91-11eb-9c6f-0ff30ce95152.png)
+
+
+**5. Select the document type to csv. Then copy paste all the data inside the dataset into the
+documents field and submit the document.**
+
+![image](https://user-images.githubusercontent.com/78001524/112710702-2e1d3400-8e91-11eb-9310-849805c069e9.png)
+
+## **Queries**
+
 **1. Pulled the 10 records of data:**
 
 ![image](https://user-images.githubusercontent.com/78001524/116711911-ececd800-a998-11eb-88f3-ea1939d6a42f.png)
